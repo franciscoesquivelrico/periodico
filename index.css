@@ -1,14 +1,28 @@
 table {
     font-size: 50px;
     margin-left: 320px;
+    border-spacing: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 td{
     width: auto;
     padding: 50px;
+    border: 2px white solid;
+    background-color: rgba(0, 0, 0, 0.5)
+}
+a {
+    color: aliceblue;
 }
 
 header {
     font-size: 50px;
     margin-bottom: 30px;
     text-align: center;
+    margin-top: 30px;
+    color: azure;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+body{
+    background-image: url(./img/3d-background-texture-geometric-shapes-pattern-illustration-3840x2160-4549.jpg);
 }
