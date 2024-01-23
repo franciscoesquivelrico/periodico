@@ -1,0 +1,14 @@
+table {
+    font-size: 50px;
+    margin-left: 320px;
+}
+td{
+    width: auto;
+    padding: 50px;
+}
+
+header {
+    font-size: 50px;
+    margin-bottom: 30px;
+    text-align: center;
+}
