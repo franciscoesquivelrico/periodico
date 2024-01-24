@@ -1,28 +1,38 @@
 table {
     font-size: 50px;
-    margin-left: 320px;
-    border-spacing: 10px;
+    margin-left: 280px;
+    border-spacing: 30px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
+
 td{
     width: auto;
     padding: 50px;
     border: 2px white solid;
-    background-color: rgba(0, 0, 0, 0.5)
+    background-color: rgba(0, 0, 0, 0.5);
+    text-align: center;
 }
 a {
     color: aliceblue;
 }
 
 header {
-    font-size: 50px;
+    background-color: rgba(0, 0, 0, 0.5);
+    font-size: 80px;
     margin-bottom: 30px;
     text-align: center;
-    margin-top: 30px;
+    margin-top: 100px;
     color: azure;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-body{
-    background-image: url(./img/3d-background-texture-geometric-shapes-pattern-illustration-3840x2160-4549.jpg);
+details{
+    margin-left: 37%;
+    font-size: x-large;
+    color: aliceblue;
+    display: inline;
+}
+
+details:hover{
+    cursor:pointer;
 }

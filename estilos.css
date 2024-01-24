@@ -1,0 +1,15 @@
+body{
+    background-image: url(./img/3d-background-texture-geometric-shapes-pattern-illustration-3840x2160-4549.jpg);
+}
+
+article, a{
+    color: azure;
+}
+
+article {
+    margin-bottom: 20px;
+}
+
+a{
+    font-size: larger;
+}
