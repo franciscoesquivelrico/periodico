@@ -1,6 +1,6 @@
 table {
     font-size: 50px;
-    margin-left: 200gitpx;
+    margin-left: 200px;
     border-spacing: 50px;
     font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
@@ -16,14 +16,16 @@ a {
 }
 
 header {
-    font-size: 50px;
+    font-size: 80px;
     margin-bottom: 30px;
     text-align: center;
     margin-top: 30px;
     color: azure;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans';
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 50px;
+    text-shadow: 5px 5px black;
+    background-color: rgba(0, 0, 0, 0.3);
 }
 
 body{
